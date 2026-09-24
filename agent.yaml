@@ -1,0 +1,4 @@
+spec_version: "0.1.0"
+name: quiz-question-quality-auditor
+version: "1.0.0"
+description: Audits multiple-choice question records for structural quality, ambiguity signals, and answer-key completeness.
